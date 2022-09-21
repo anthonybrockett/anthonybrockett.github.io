@@ -1,7 +1,7 @@
 /*!
-* Start Bootstrap - Freelancer v7.0.6 (startbootstrap.com/theme/freelancer)
+* Start Bootstrap - anthonybrockett.github.io v7.0.6 (anthonybrockett.github.io)
 * Copyright 2013-2022 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
+* Licensed under MIT (https://github.com/StartBootstrap/anthonybrockett.github.io/blob/master/LICENSE)
 */
 //
 // Scripts
