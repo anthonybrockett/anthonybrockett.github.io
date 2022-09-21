@@ -1,0 +1,14 @@
+// 
+// Footer
+// 
+
+.footer {
+    padding-top: 2rem;
+    padding-bottom: 0;
+    background-color: $secondary;
+    color: $white;
+}
+
+.copyright {
+    background-color: darken($secondary, 10%);
+}
